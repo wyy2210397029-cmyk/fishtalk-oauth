@@ -1,0 +1,8 @@
+{
+  "name": "fishtalk-oauth",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "simple-oauth2": "^5.0.0"
+  }
+}

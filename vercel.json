@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "api/auth.js": {
+      "memory": 128,
+      "maxDuration": 10
+    },
+    "api/callback.js": {
+      "memory": 128,
+      "maxDuration": 10
+    }
+  }
+}
